@@ -1,4 +1,4 @@
-# 2048_C
+# 🏆 2048_C
 
 This is a lab work. Where I worked with text files as well as structs
 
